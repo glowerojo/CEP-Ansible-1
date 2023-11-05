@@ -1,3 +1,2 @@
 [demo]
-172.31.84.31 ansible_user=ansibleuser
-172.31.84.97 ansible_user=ansibleuser
+172.31.84.97 
